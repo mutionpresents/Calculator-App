@@ -16,7 +16,7 @@ A simple command-line calculator that performs basic arithmetic operations throu
 ## Usage
 1. Run the program:
 
-python calculator.py
+calculator tut.py
 
 
 2. Follow the on-screen prompts:
@@ -55,7 +55,7 @@ This project demonstrates:
 ## File Structure
 
 calculator/
-├── calculator.py    # Main program file
+├── calculator tut.py    # Main program file
 ├── README.md        # This documentation
 
 
